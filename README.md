@@ -14,7 +14,7 @@ In this project, I display a product card with an image, title, description, and
 3. View the product card
 
 ## Screenshot
-! ![Product Card Screenshot](<Product Card.png>)
+! ![Product Card Screenshot] (<Product Card Preview.png>)
 
 ## License
 This project is open-source and free to use.
